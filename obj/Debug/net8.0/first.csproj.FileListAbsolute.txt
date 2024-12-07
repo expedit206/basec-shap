@@ -1,0 +1,14 @@
+C:\DISQUE LOCAL D\C#\first\first\bin\Debug\net8.0\first.exe
+C:\DISQUE LOCAL D\C#\first\first\bin\Debug\net8.0\first.deps.json
+C:\DISQUE LOCAL D\C#\first\first\bin\Debug\net8.0\first.runtimeconfig.json
+C:\DISQUE LOCAL D\C#\first\first\bin\Debug\net8.0\first.dll
+C:\DISQUE LOCAL D\C#\first\first\bin\Debug\net8.0\first.pdb
+C:\DISQUE LOCAL D\C#\first\first\obj\Debug\net8.0\first.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISQUE LOCAL D\C#\first\first\obj\Debug\net8.0\first.AssemblyInfoInputs.cache
+C:\DISQUE LOCAL D\C#\first\first\obj\Debug\net8.0\first.AssemblyInfo.cs
+C:\DISQUE LOCAL D\C#\first\first\obj\Debug\net8.0\first.csproj.CoreCompileInputs.cache
+C:\DISQUE LOCAL D\C#\first\first\obj\Debug\net8.0\first.dll
+C:\DISQUE LOCAL D\C#\first\first\obj\Debug\net8.0\refint\first.dll
+C:\DISQUE LOCAL D\C#\first\first\obj\Debug\net8.0\first.pdb
+C:\DISQUE LOCAL D\C#\first\first\obj\Debug\net8.0\first.genruntimeconfig.cache
+C:\DISQUE LOCAL D\C#\first\first\obj\Debug\net8.0\ref\first.dll
